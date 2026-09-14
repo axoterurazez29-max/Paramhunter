@@ -44,6 +44,6 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/axoterurazez29-max/kyoraku-paramhunter.git
-cd kyoraku-paramhunter
+git clone https://github.com/axoterurazez29-max/Paramhunter.git
+cd Paramhunter
 pip install -r requirements.txt
